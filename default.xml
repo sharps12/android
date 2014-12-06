@@ -20,17 +20,17 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="tattooboy/android" remote="github" revision="cm-12.0" />
+  <project path="android" name="Tattooboy/android" remote="github" revision="cm-12.0" />
 
   <!-- START of lolligang -->
-  <project path="frameworks/base" name="tattooboy/android_frameworks_base" remote="github" revision="cm-12.0" />
+  <project path="frameworks/base" name="Tattooboy/android_frameworks_base" remote="github" revision="cm-12.0" />
   <project path="frameworks/native" name="temasek/android_frameworks_native" remote="github" revision="cm-12.0" />
-  <project path="packages/apps/Settings" name="tattooboy/android_packages_apps_Settings" remote="github" revision="cm-12.0" />
+  <project path="packages/apps/Settings" name="Tattooboy/android_packages_apps_Settings" remote="github" revision="cm-12.0" />
   <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-12.0" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.0" />
   <project path="system/vold" name="temasek/android_system_vold" remote="github" revision="cm-12.0" />
   <project path="external/koush/Superuser" name="temasek/Superuser" remote="github" revision="cm-12.0" />
-  <project path="vendor/cm" name="tattooboy/android_vendor_cm" remote="github" revision="cm-12.0" />
+  <project path="vendor/cm" name="Tattooboy/android_vendor_cm" remote="github" revision="cm-12.0" />
   <project path="hardware/qcom/gps" name="temasek/android_hardware_qcom_gps" remote="github" revision="cm-12.0" />
   <project path="frameworks/webview" name="temasek/android_frameworks_webview" remote="github" revision="cm-12.0" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.0" />
