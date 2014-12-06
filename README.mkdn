@@ -1,5 +1,5 @@
-TEMASEK
-=======
+LOLLIPOP GANG
+=============
 
 Download the Source
 ===================
@@ -11,7 +11,7 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/temasek/android.git -b cm-12.0
+    $ repo init -u https://github.com/Tattooboy/android.git -b cm-12.0
 
 
 sync repo :
@@ -22,4 +22,4 @@ sync repo :
 Credits
 =======
 
-Google for the Android source code. CyanogenMod, in which this source layout was used as a starting point for me. Everyone in crDroid, AOSPA, CyanogenMod, OmniROM, SlimROM, LiquidSmooth, SpasilliumNexus, DirtyUnicorns, NamelessROM, and anyone else I forgot to mention for their commits.
+Google for the Android source code. CyanogenMod, in which this source layout was used as a starting point for me. Everyone in crDroid, AOSPA, CyanogenMod, OmniROM, SlimROM, LiquidSmooth, SpasilliumNexus, DirtyUnicorns, NamelessROM, Temasek and anyone else I forgot to mention for their commits.
