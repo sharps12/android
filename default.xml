@@ -50,7 +50,15 @@
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.0" />
-  <project name="temasek/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.0" />
+  <project name="Tattooboy/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.0" />
+  
+  <!-- trltetmo -->
+  <project name="Slayher/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-12.0" />
+  <project name="Slayher/android_device_samsung_trltetmo" path="device/samsung/trltetmo" remote="github" revision="cm-12.0" />
+  <project name="Slayher/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/apq8084" remote="github" revision="cm-12.0-caf-8084" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/apq8084" remote="github" revision="cm-12.0-caf-8084" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/apq8084" remote="github" revision="cm-12.0-caf-8084" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
